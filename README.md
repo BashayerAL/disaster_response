@@ -26,7 +26,7 @@ Project structure:
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
 2. Run the following command in the app's directory to run your web app.
-    `python run.py`
+    `python app/run.py`
 
 3. Go to
 https://view6914b2f4-3001.udacity-student-workspaces.com
