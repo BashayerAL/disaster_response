@@ -39,7 +39,7 @@ def clean_data(df):
 #function for saving data
 def save_data(df, database_filename):
     
-    engine = create_engine('sqlite:///disasterdb.db')
+    engine = create_engine('sqlite:///disasterdb.db',if_exists='replace')
     #convert the data to sql
     df.to_sql('disaster', engine, index=False)
     
