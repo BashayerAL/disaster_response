@@ -16,6 +16,18 @@ Project structure:
  3.Web development: The final results will be in a Flask web app that classifies messages in real time.
  
  # Disaster Response Pipeline Project
+ 
+ The Installation Required:
+
+Python 3.5+ (I used Python 3.7)
+Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+Natural Language Process Libraries: NLTK
+SQLlite Database Libraqries: SQLalchemy
+Web App and Data Visualization: Flask, Plotly
+
+# Acknowledgements
+-Udacity for providing the Data Science Nanodegree Program.
+-Figure Eight for providing messages dataset to train my model.
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -32,5 +44,8 @@ Project structure:
 https://view6914b2f4-3001.udacity-student-workspaces.com
 
  
+# Screenshots:
 
- 
+ ![1](https://user-images.githubusercontent.com/27586577/146645913-36f5787e-5e8f-40b2-97c9-7602cecf7818.png)
+
+![2](https://user-images.githubusercontent.com/27586577/146645924-717c152e-1631-486d-9ce9-a05efb98dc89.png)
